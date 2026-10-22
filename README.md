@@ -15,7 +15,7 @@
 * Python 
 * SQLite
 * markdown
-* NETWORK
+* NETWORK +
 
 ## 🤖 Special Python Libraries
 * tkinter
